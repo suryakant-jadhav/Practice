@@ -1,2 +1,2 @@
 # Practice
-For Practice Purpose
+For self tutorial Practice Purpose
